@@ -1,0 +1,7 @@
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\test123165asd.exe
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\appsettings.json
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\test123165asd.dll
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\test123165asd.deps.json
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\test123165asd.runtimeconfig.json
+D:\All Project\test123\testbro\test123165asd\obj\Release\net9.0\PubTmp\Out\test123165asd.pdb

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/SRZntbTEU=",
+  "dgSpecHash": "iUlxKQ7i6L0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\test123165asd\\test123165asd\\test123165asd.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\All Project\\test123\\testbro\\test123165asd\\test123165asd.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
